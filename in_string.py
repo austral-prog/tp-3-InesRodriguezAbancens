@@ -1,4 +1,5 @@
 def check_vowels():
+    
     nombre = input ("Ingresar nombre").lower()
     a = "a"
     e = "e"
